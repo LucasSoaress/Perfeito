@@ -1,0 +1,6 @@
+C:\Users\thais.dutra\Desktop\Perfeito\Perfeito\bin\Debug\Perfeito.exe.config
+C:\Users\thais.dutra\Desktop\Perfeito\Perfeito\bin\Debug\Perfeito.exe
+C:\Users\thais.dutra\Desktop\Perfeito\Perfeito\bin\Debug\Perfeito.pdb
+C:\Users\thais.dutra\Desktop\Perfeito\Perfeito\obj\Debug\Perfeito.csprojResolveAssemblyReference.cache
+C:\Users\thais.dutra\Desktop\Perfeito\Perfeito\obj\Debug\Perfeito.exe
+C:\Users\thais.dutra\Desktop\Perfeito\Perfeito\obj\Debug\Perfeito.pdb
